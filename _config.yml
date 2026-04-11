@@ -10,6 +10,8 @@ plugins:
   - jekyll-include-cache
 
 
+# Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
+masthead: assets/images/moere_trimmed.jpeg
 
 
 minima:
