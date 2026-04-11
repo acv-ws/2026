@@ -1,0 +1,9 @@
+theme: minima
+
+title: ACV 2026
+
+minima:
+  nav_pages:
+    - about.md
+    - portfolio.md
+
