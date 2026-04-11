@@ -8,9 +8,10 @@ First Workshop on Abstract and Concrete Techniques in Verification
 
 
 July 24-25, 2026  
-At [FLoC 2026](https://www.floc26.org/), Affiliated with LICS & CAV
+At [FLoC 2026](https://www.floc26.org/), affiliated with [LICS 2026](https://lics.siglog.org/lics26/) and [CAV 2026](https://conferences.i-cav.org/2026/)   
+Lisbon, Portugal
 
-# Workshop Scope
+## Workshop Scope
 
 Formal verification research stands upon two lines of work. One is on *abstract mathematical semantics* of systems, defining systems’ behaviors based on which formal verification is conducted. The other one is on *concrete algorithms and methods* that enable efficient and scalable verification. 
 
@@ -29,11 +30,11 @@ The goal of this workshop is to promote the unification of abstract and concrete
 
 thereby picturing a new form of formal verification research in the AI era.
 
-# Invited Speakers: TBA
+## Invited Speakers: TBA
 
-# Program: TBA
+## Program: TBA
 
-# Call for Presentations
+## Call for Presentations
 
 We solicit contributed presentations. Topics of interest include the following, although the list is by no means exclusive.
 
@@ -56,20 +57,18 @@ We solicit contributed presentations. Topics of interest include the following, 
   * Concrete verification methods  
 * Examples of successful matchings between abstract and concrete, or efforts towards them
 
-## Submission
+### Submission
 
 Submission deadline: May 6th 2026 AoE  
 Submission link: [https://submissions.floc26.org/acv/](https://submissions.floc26.org/acv/) 
 
-# Attending
+## Attending
 
 The workshop takes place on July 24-25, 2026, at [FLoC 2026](https://www.floc26.org/).
 
-# Organizers
+## Organizers
 
 [Ichiro Hasuo](https://group-mmm.org/~ichiro/) (National Institute of Informatics, Tokyo, Japan)    
 [Bart Jacobs](https://www.cs.ru.nl/B.Jacobs/) (Radboud University, Nijmegen, the Netherlands)  
 [Joost-Pieter Katoen](https://moves.rwth-aachen.de/people/katoen/) (RWTH Aachen University, Germany)  
 [Sam Staton](https://www.cs.ox.ac.uk/people/samuel.staton/main.html) (University of Oxford, UK)
-
-# 
