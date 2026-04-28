@@ -31,7 +31,12 @@ The goal of this workshop is to promote the unification of abstract and concrete
 
 thereby picturing a new form of formal verification research in the AI era.
 
-## Invited Speakers: TBA
+## Invited Speakers:
+
+* [Mayuko Kori](https://mkori.com/), RIMS, Kyoto U, Japan
+* [Cristina Matache](https://homepages.inf.ed.ac.uk/cmatache/), U Birmingham, UK
+
+... *several more are TBA*
 
 ## Program: TBA
 
@@ -60,7 +65,7 @@ We solicit contributed presentations. Topics of interest include the following, 
 
 ### Submission
 
-We call for presentation proposals describing ongoing research developments, an overview of past research, or a survey of a broad topic. A presentation of already published results, or those currently under review, is welcome, too. There are no formal proceedings. 
+We call for presentation proposals (typically 1-2 pages) describing ongoing research developments, an overview of past research, or a survey of a broad topic. A presentation of already published results, or those currently under review, is welcome, too. There are no formal proceedings.
 
 
 Submission deadline: May 6th 2026 AoE  
