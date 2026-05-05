@@ -68,8 +68,8 @@ We solicit contributed presentations. Topics of interest include the following, 
 We call for presentation proposals (typically 1-2 pages) describing ongoing research developments, an overview of past research, or a survey of a broad topic. A presentation of already published results, or those currently under review, is welcome, too. There are no formal proceedings.
 
 
-Submission deadline: <s>May 6th 2026 AoE</s> May 15th 2026 AoE *(extended)*
-Submission link: [https://submissions.floc26.org/acv/](https://submissions.floc26.org/acv/)
+Submission deadline: &nbsp; <s>May 6th 2026 AoE</s> &nbsp;  **May 20th 2026 AoE (extended)**  
+Submission link: [https://submissions.floc26.org/acv/](https://submissions.floc26.org/acv/)   
 Notification: late May 2026 (before the early workshop registration deadline)
 
 ## Attending
