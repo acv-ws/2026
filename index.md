@@ -37,7 +37,7 @@ thereby picturing a new form of formal verification research in the AI era.
 * [Mayuko Kori](https://mkori.com/), RIMS, Kyoto U, Japan
 * [Cristina Matache](https://homepages.inf.ed.ac.uk/cmatache/), U Birmingham, UK
 
-... *several more are TBA*
+... *more are TBA*
 
 ## Program: TBA
 
