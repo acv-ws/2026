@@ -33,7 +33,7 @@ thereby picturing a new form of formal verification research in the AI era.
 
 ## Invited Speakers:
 
-* [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&Uuml;cken, Germany & U College London, UK
+* [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK
 * [Mayuko Kori](https://mkori.com/), RIMS, Kyoto U, Japan
 * [Cristina Matache](https://homepages.inf.ed.ac.uk/cmatache/), U Birmingham, UK
 
