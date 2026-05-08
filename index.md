@@ -36,6 +36,7 @@ thereby picturing a new form of formal verification research in the AI era.
 * [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK
 * [Mayuko Kori](https://mkori.com/), RIMS, Kyoto U, Japan
 * [Cristina Matache](https://homepages.inf.ed.ac.uk/cmatache/), U Birmingham, UK
+* [Florian Wittbold](https://www.researchgate.net/profile/Florian-Wittbold), U Duisburg-Essen, Germany
 
 ... *more are TBA*
 
