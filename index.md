@@ -85,3 +85,7 @@ The workshop takes place on July 24-25, 2026, at [FLoC 2026](https://www.floc26.
 [Bart Jacobs](https://www.cs.ru.nl/B.Jacobs/) (Radboud University, Nijmegen, the Netherlands)  
 [Joost-Pieter Katoen](https://moves.rwth-aachen.de/people/katoen/) (RWTH Aachen University, Germany)  
 [Sam Staton](https://www.cs.ox.ac.uk/people/samuel.staton/main.html) (University of Oxford, UK)
+
+## Acknowledgments
+
+Many thanks are due to the FLoC 2026 organization team. The workshop is partially supported by JST ASPIRE Grant No. JPMJAP2301. 
