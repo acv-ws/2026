@@ -41,6 +41,34 @@ thereby picturing a new form of formal verification research in the AI era.
 
 ... *more are TBA*
 
+## Contributed Presentations:
+
+
+
+<ul>
+  <li>SV-LIB 1.0: A Standard Exchange Format for Software-Verification Tasks, <a href="https://www.sosy-lab.org/people/beyer/">Dirk Beyer</a>, <a href="https://www.sosy-lab.org/people/ernst/">Gidon Ernst</a>, <a href="https://mjonas.net/">Martin Jonáš</a>, <a href="https://www.sosy-lab.org/people/lingsch-rosenfeld/">Marian Lingsch-Rosenfeld</a> (LMU Munich)</li>
+  
+  <li>Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking, <a href="https://linus.space/">Linus Heck</a> (Radboud University); <a href="https://www.fit.vut.cz/person/imacak/.en">Filip Macák</a>, <a href="https://www.fit.vut.cz/person/ceskam/.en">Milan Češka</a> (Brno University of Technology); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud University)</li>
+  
+  <li>Why codensity lifting works: A formal perspective, <a href="https://www.cs.ox.ac.uk/people/zev.shirazi/">Zev Shirazi</a> (University of Oxford)</li>
+  
+  <li>Stochastic Processes: Coinduction in Probabilistic Programming, <a href="https://seojinpark.net/">Seo Jin Park</a> (University of Oxford)</li>
+  
+  <li>Certified Harmonic-Mean Abstraction and Refinement for Continuous-Time Markov Chains, <a href="https://www.researchgate.net/profile/Bingqing-Hu-8">Bingqing Hu</a> (Utah State University); <a href="https://www.thomasnowak.net/">Thomas Nowak</a> (ENS Paris-Saclay); <a href="https://engineering.usu.edu/directory/be/faculty/zhan-jixun">Jixun Zhan</a> (Utah State University); <a href="https://www.colorado.edu/ecee/chris-myers">Chris J. Myers</a> (University of Colorado Boulder); <a href="https://engineering.usu.edu/ece/people/faculty/zhang-zhen">Zhen Zhang</a> (Utah State University)</li>
+  
+  <li>Semantics and Equational Axiomatisation of Quantum Communication, <a href="https://theo.wang/">Theo Wang</a> (University of Oxford)</li>
+  
+  <li>Multiobjective Predicate Transformers: Computing the Pareto Front in Probabilistic Programs, <a href="https://www.cs.cornell.edu/people/kevin-stefan-batz">Kevin Batz</a> (Cornell University); <a href="https://moves.rwth-aachen.de/people/hannah-mertens/">Hannah Mertens</a> (RWTH Aachen University); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud University); <a href="https://quave.cs.uni-saarland.de/benjamin-kaminski/">Benjamin Lucien Kaminski</a> (Saarland University and University College London); <a href="https://moves.rwth-aachen.de/people/katoen/">Joost-Pieter Katoen</a> (RWTH Aachen University); <a href="https://quave.cs.uni-saarland.de/members/lena-verscht/">Lena Verscht</a> (Saarland University and RWTH Aachen University)</li>
+  
+  <li>Coalgebraic Notions of Simulation, Bisimulation and Relators, <a href="https://research.birmingham.ac.uk/en/persons/pouya-partow/">Pouya Partow</a>, <a href="https://sergey-goncharov.org/">Sergey Goncharov</a> (University of Birmingham)</li>
+  
+  <li>Compositional Verification of Higher-Order Effectful Programs via Interactive Semantics, <a href="https://sciences-techniques.univ-nantes.fr/guilhem-jaber">Guilhème Jaber</a> (Nantes Université)</li>
+  
+  <li>Verification of Systems with Unbounded Agents By Exploiting Concurrency, <a href="https://tephilla.github.io/">Tephilla Prince</a></li>
+</ul> 
+
+
+
 ## Program: TBA
 
 ## Call for Presentations
@@ -88,4 +116,7 @@ The workshop takes place on July 24-25, 2026, at [FLoC 2026](https://www.floc26.
 
 ## Acknowledgments
 
-Many thanks are due to the FLoC 2026 organization team. The workshop is partially supported by JST ASPIRE Grant No. JPMJAP2301. 
+Many thanks are due to the FLoC 2026 organization team. The workshop is partially supported by JST ASPIRE Grant No. JPMJAP2301.
+
+
+
