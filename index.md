@@ -52,7 +52,7 @@ thereby picturing a new form of formal verification research in the AI era.
   
   <li>Why codensity lifting works: A formal perspective, <a href="https://www.cs.ox.ac.uk/people/zev.shirazi/">Zev Shirazi</a> (University of Oxford)</li>
   
-  <li>Stochastic Processes: Coinduction in Probabilistic Programming, <a href="https://seojinpark.net/">Seo Jin Park</a> (University of Oxford)</li>
+  <li>Stochastic Processes: Coinduction in Probabilistic Programming, <a href="https://sjpmath.github.io/">Seo Jin Park</a> (University of Oxford)</li>
   
   <li>Certified Harmonic-Mean Abstraction and Refinement for Continuous-Time Markov Chains, <a href="https://www.researchgate.net/profile/Bingqing-Hu-8">Bingqing Hu</a> (Utah State University); <a href="https://www.thomasnowak.net/">Thomas Nowak</a> (ENS Paris-Saclay); <a href="https://engineering.usu.edu/directory/be/faculty/zhan-jixun">Jixun Zhan</a> (Utah State University); <a href="https://www.colorado.edu/ecee/chris-myers">Chris J. Myers</a> (University of Colorado Boulder); <a href="https://engineering.usu.edu/ece/people/faculty/zhang-zhen">Zhen Zhang</a> (Utah State University)</li>
   
