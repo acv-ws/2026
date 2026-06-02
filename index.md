@@ -43,7 +43,7 @@ thereby picturing a new form of formal verification research in the AI era.
 
 ## Contributed Presentations:
 
-
+Each slot is (20-min talk + 10-min discussion), to bridge different backgrounds.
 
 <ul>
   <li>SV-LIB 1.0: A Standard Exchange Format for Software-Verification Tasks, <a href="https://www.sosy-lab.org/people/beyer/">Dirk Beyer</a>, <a href="https://www.sosy-lab.org/people/ernst/">Gidon Ernst</a>, <a href="https://mjonas.net/">Martin Jonáš</a>, <a href="https://www.sosy-lab.org/people/lingsch-rosenfeld/">Marian Lingsch-Rosenfeld</a> (LMU Munich)</li>
