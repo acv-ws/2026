@@ -65,6 +65,10 @@ Each slot is (20-min talk + 10-min discussion), to bridge different backgrounds.
   <li>Compositional Verification of Higher-Order Effectful Programs via Interactive Semantics, <a href="https://sciences-techniques.univ-nantes.fr/guilhem-jaber">Guilhème Jaber</a> (Nantes Université)</li>
   
   <li>Verification of Systems with Unbounded Agents By Exploiting Concurrency, <a href="https://tephilla.github.io/">Tephilla Prince</a></li>
+
+  <li>Basic Lattice Theory for Basic Model Checking, <a href="https://group-mmm.org/~ichiro/">Ichiro Hasuo</a> (National Institute of Informatics, SOKENDAI and Imiron)</li>
+
+
 </ul> 
 
 
