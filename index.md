@@ -37,6 +37,10 @@ thereby picturing a new form of formal verification research in the AI era.
 * [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK
 * [Mayuko Kori](https://mkori.com/), RIMS, Kyoto U, Japan
 * [Cristina Matache](https://homepages.inf.ed.ac.uk/cmatache/), U Birmingham, UK
+
+  **An equational axiomatization of dynamic threads**  
+  Algebraic effects are a way to describe and reason about computational effects in a modular way, via the algebraic theories from universal algebra. A current challenge is to extend these ideas to concurrent programming. In this talk, I will present recent work on modelling dynamic thread creation, inspired by POSIX fork, using an algebraic theory. The main result characterizes this algebraic theory in terms of labelled partial orders, leading to a semantics where concurrent programs denote partial orders. The algebraic theory provides sound and complete equational reasoning principles for equality of such partial orders. This is joint work with Ohad Kammar, Jack Liell-Cock, Sam Lindley, and Sam Staton.
+  
 * [Florian Wittbold](https://www.researchgate.net/profile/Florian-Wittbold), U Duisburg-Essen, Germany
 
 ... *more are TBA*
