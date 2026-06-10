@@ -66,6 +66,13 @@ Each slot is (20-min talk + 10-min discussion), to bridge different backgrounds.
   
   <li>Verification of Systems with Unbounded Agents By Exploiting Concurrency, <a href="https://tephilla.github.io/">Tephilla Prince</a></li>
 
+  <li>Imprecise Probabilistic Programming, Precisely, <a href="https://jackliellcock.com/">Jack Liell-Cock</a> (University of Oxford)</li>
+
+  <li>Scalable Probabilistic Program Verification by Theory-Extended Decision Diagrams,
+<a href="https://github.com/dbasgoeze">Daniel Basgöze</a> (RWTH Aachen University); <a href="https://kevinbatz.github.io/">Kevin Batz</a> (University of Münster); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud University); <a href="https://moves.rwth-aachen.de/people/katoen/">Joost-Pieter Katoen</a> (RWTH Aachen University)
+</li>
+
+
   <li>Basic Lattice Theory for Basic Model Checking, <a href="https://group-mmm.org/~ichiro/">Ichiro Hasuo</a> (National Institute of Informatics, SOKENDAI and Imiron)</li>
 
 
