@@ -33,33 +33,49 @@ thereby picturing a new form of formal verification research in the AI era.
 
 ## Invited Speakers:
 
-* [Syyeda Zainab Fatmi](https://zainabfatmi.github.io/), U Oxford, UK
-
-  **Robust Probabilistic Bisimilarity**      
-  Labelled Markov chains are commonly used to model systems with random behaviour. To mitigate the state-space explosion problem, behavioural equivalences such as probabilistic bisimilarity can be used to minimise the state space.         
-  In this talk, I will begin with an introduction to probabilistic bisimilarity and its associated behavioural pseudometric. I will then discuss a key limitation: probabilistic bisimilarity suffers from a lack of robustness under small perturbations of the transition probabilities. This can lead to unexpected changes in behaviour in practical applications where transition probabilities are often approximations derived from experimental data.  
+* [Syyeda Zainab Fatmi](https://zainabfatmi.github.io/), U Oxford, UK.   
+  **Robust Probabilistic Bisimilarity**. 
+  <details>
+    <summary>Abstract</summary>
+  Labelled Markov chains are commonly used to model systems with random behaviour. To mitigate the state-space explosion problem, behavioural equivalences such as probabilistic bisimilarity can be used to minimise the state space.
+  <br/>
+  In this talk, I will begin with an introduction to probabilistic bisimilarity and its associated behavioural pseudometric. I will then discuss a key limitation: probabilistic bisimilarity suffers from a lack of robustness under small perturbations of the transition probabilities. This can lead to unexpected changes in behaviour in practical applications where transition probabilities are often approximations derived from experimental data.
+  <br/>
   There exist different approaches in the literature to address the sensitivity of probabilistic bisimilarity. I will also present our notion of robust probabilistic bisimilarity, which is designed to be stable under small changes in the model by ensuring the continuity of the associated probabilistic bisimilarity distance function. Finally, I will give an overview of our partition-refinement algorithm for computing robust probabilistic bisimilarity.
+  </details>
+
+
 
 * [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK
-* [Mayuko Kori](https://mkori.com/), RIMS, Kyoto U, Japan
+* [Mayuko Kori](https://mkori.com/), RIMS, Kyoto U, Japan.    
+  **A Lattice-Theoretic Abstraction of PDR via Adjunctions**.
+  <details>
+    <summary>Abstract</summary>
+  Property directed reachability (PDR, also known as IC3) is a model checking algorithm for proving or refuting safety properties of transition systems. Although many variants and extensions have been studied, presentations and implementations of PDR algorithms often rely on concrete representations and solver-based mechanisms. This sometimes makes it difficult to identify the underlying algorithmic principles and to develop natural extensions.
+  <br/>
+  In this talk, I will present a lattice-theoretic abstraction of PDR, in which PDR can be understood as an interaction between searches for invariants and counterexamples. This abstraction reveals that the interaction is mediated by an adjunction representing forward and backward computations along transitions.
+  <br/>
+  I will then explain how to handle cases where such an adjunction is not available. The required adjunction can be recovered by the lower-set construction, which is categorically understood as a free cocompletion via Kan extensions. Finally, I will discuss how this framework yields a PDR algorithm solving max reachability problems for Markov decision processes, together with experimental results.
+  </details>
 
-  **A Lattice-Theoretic Abstraction of PDR via Adjunctions**    
-  Property directed reachability (PDR, also known as IC3) is a model checking algorithm for proving or refuting safety properties of transition systems. Although many variants and extensions have been studied, presentations and implementations of PDR algorithms often rely on concrete representations and solver-based mechanisms. This sometimes makes it difficult to identify the underlying algorithmic principles and to develop natural extensions.         
-In this talk, I will present a lattice-theoretic abstraction of PDR, in which PDR can be understood as an interaction between searches for invariants and counterexamples. This abstraction reveals that the interaction is mediated by an adjunction representing forward and backward computations along transitions.     
-I will then explain how to handle cases where such an adjunction is not available. The required adjunction can be recovered by the lower-set construction, which is categorically understood as a free cocompletion via Kan extensions. Finally, I will discuss how this framework yields a PDR algorithm solving max reachability problems for Markov decision processes, together with experimental results.
-
-
-* [Cristina Matache](https://homepages.inf.ed.ac.uk/cmatache/), U Birmingham, UK
-
-  **An equational axiomatization of dynamic threads**   
+* [Cristina Matache](https://homepages.inf.ed.ac.uk/cmatache/), U Birmingham, UK.     
+  **An equational axiomatization of dynamic threads**.
+  <details>
+    <summary>Abstract</summary>
   Algebraic effects are a way to describe and reason about computational effects in a modular way, via the algebraic theories from universal algebra. A current challenge is to extend these ideas to concurrent programming. In this talk, I will present recent work on modelling dynamic thread creation, inspired by POSIX fork, using an algebraic theory. The main result characterizes this algebraic theory in terms of labelled partial orders, leading to a semantics where concurrent programs denote partial orders. The algebraic theory provides sound and complete equational reasoning principles for equality of such partial orders. This is joint work with Ohad Kammar, Jack Liell-Cock, Sam Lindley, and Sam Staton.
-  
-* [Florian Wittbold](https://flo-witt.github.io/), U Duisburg-Essen, Germany
+  </details>
 
-  **Approximative Fixpoint Theory and Applications to Reinforcement Learning**   
-  Fixpoints play a central role throughout computer science, and classical fixpoint theory provides fundamental tools for establishing their existence and analyzing the convergence of fixpoint iterations. At the same time, in modern computer science, there has long been a trend to consider classical problems in approximative settings, such as quantitative problems in which the true dynamics of an underlying system cannot be known precisely but may be approximated. Reinforcement learning is a prominent example: optimal policies can be derived from fixpoints of operators whose dynamics are typically unknown and must be learned through interaction with an environment.     
-Despite the growing importance of reinforcement learning, the fixpoint-theoretic foundations of such approximative settings remain comparatively underdeveloped. Approximative fixpoint theory seeks to address this gap by studying fixpoint computation when the operator of interest is accessible only through a sequence of approximating functions converging to it. In this framework, standard fixpoint iteration may fail to converge to a fixpoint, even when its classical assumptions are satisfied, necessitating new techniques and proof methods.      
-In this talk, I will introduce the basic concepts of approximative fixpoint theory and discuss convergence results of the so-called dampened Mann iteration. As an application, these results yield generalized convergence guarantees for (model-based) reinforcement learning algorithms and provide a step towards a unifying fixpoint-theoretic perspective on quantitative learning in environments with unknown dynamics. 
+
+* [Florian Wittbold](https://flo-witt.github.io/), U Duisburg-Essen, Germany.   
+  **Approximative Fixpoint Theory and Applications to Reinforcement Learning**.
+  <details>
+    <summary>Abstract</summary>
+  Fixpoints play a central role throughout computer science, and classical fixpoint theory provides fundamental tools for establishing their existence and analyzing the convergence of fixpoint iterations. At the same time, in modern computer science, there has long been a trend to consider classical problems in approximative settings, such as quantitative problems in which the true dynamics of an underlying system cannot be known precisely but may be approximated. Reinforcement learning is a prominent example: optimal policies can be derived from fixpoints of operators whose dynamics are typically unknown and must be learned through interaction with an environment.
+  <br/>
+  Despite the growing importance of reinforcement learning, the fixpoint-theoretic foundations of such approximative settings remain comparatively underdeveloped. Approximative fixpoint theory seeks to address this gap by studying fixpoint computation when the operator of interest is accessible only through a sequence of approximating functions converging to it. In this framework, standard fixpoint iteration may fail to converge to a fixpoint, even when its classical assumptions are satisfied, necessitating new techniques and proof methods.
+  <br/>
+  In this talk, I will introduce the basic concepts of approximative fixpoint theory and discuss convergence results of the so-called dampened Mann iteration. As an application, these results yield generalized convergence guarantees for (model-based) reinforcement learning algorithms and provide a step towards a unifying fixpoint-theoretic perspective on quantitative learning in environments with unknown dynamics.
+  </details>
 
 ... *more are TBA*
 
