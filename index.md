@@ -65,7 +65,7 @@ thereby picturing a new form of formal verification research in the AI era.
   Algebraic effects are a way to describe and reason about computational effects in a modular way, via the algebraic theories from universal algebra. A current challenge is to extend these ideas to concurrent programming. In this talk, I will present recent work on modelling dynamic thread creation, inspired by POSIX fork, using an algebraic theory. The main result characterizes this algebraic theory in terms of labelled partial orders, leading to a semantics where concurrent programs denote partial orders. The algebraic theory provides sound and complete equational reasoning principles for equality of such partial orders. This is joint work with Ohad Kammar, Jack Liell-Cock, Sam Lindley, and Sam Staton.
   </details>
 
-
+* [Caterina Urban](https://caterinaurban.github.io/), INRIA, Paris, France.
 * [Florian Wittbold](https://flo-witt.github.io/), U Duisburg-Essen, Germany.   
   **Approximative Fixpoint Theory and Applications to Reinforcement Learning**.
   <details>
@@ -77,7 +77,6 @@ thereby picturing a new form of formal verification research in the AI era.
   In this talk, I will introduce the basic concepts of approximative fixpoint theory and discuss convergence results of the so-called dampened Mann iteration. As an application, these results yield generalized convergence guarantees for (model-based) reinforcement learning algorithms and provide a step towards a unifying fixpoint-theoretic perspective on quantitative learning in environments with unknown dynamics.
   </details>
 
-... *more are TBA*
 
 ## Contributed Presentations:
 
