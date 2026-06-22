@@ -65,7 +65,12 @@ thereby picturing a new form of formal verification research in the AI era.
   Algebraic effects are a way to describe and reason about computational effects in a modular way, via the algebraic theories from universal algebra. A current challenge is to extend these ideas to concurrent programming. In this talk, I will present recent work on modelling dynamic thread creation, inspired by POSIX fork, using an algebraic theory. The main result characterizes this algebraic theory in terms of labelled partial orders, leading to a semantics where concurrent programs denote partial orders. The algebraic theory provides sound and complete equational reasoning principles for equality of such partial orders. This is joint work with Ohad Kammar, Jack Liell-Cock, Sam Lindley, and Sam Staton.
   </details>
 
-* [Caterina Urban](https://caterinaurban.github.io/), INRIA, Paris, France.
+* [Caterina Urban](https://caterinaurban.github.io/), INRIA, Paris, France.   
+  **Termination Resilience Static Analysis**.
+    <details>
+    <summary>Abstract</summary>
+    We present a novel abstract interpretation-based static analysis framework for proving Termination Resilience, the absence of Robust Non-Termination vulnerabilities in software systems. Robust Non-Termination characterizes programs where an untrusted (e.g., externally-controlled) input can force infinite execution, independently of other trusted (e.g., internally-controlled) variables. Our framework is a semantic generalization of Cousot and Cousot’s abstract interpretation-based ranking function derivation, and our sound static analysis extends Urban and Miné’s decision tree abstract domain in a non-trivial way to manage the distinction between untrusted and trusted program variables. The talk concludes with open challenges in dealing with angelic non-determinism, pointer-manipulating programs, and going beyond termination to program properties expressed in Computational Tree Logic (CTL) or Alternating-Time Temporal Logic (ATL).
+    </details>
 * [Florian Wittbold](https://flo-witt.github.io/), U Duisburg-Essen, Germany.   
   **Approximative Fixpoint Theory and Applications to Reinforcement Learning**.
   <details>
