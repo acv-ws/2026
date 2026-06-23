@@ -44,8 +44,12 @@ thereby picturing a new form of formal verification research in the AI era.
   There exist different approaches in the literature to address the sensitivity of probabilistic bisimilarity. I will also present our notion of robust probabilistic bisimilarity, which is designed to be stable under small changes in the model by ensuring the continuity of the associated probabilistic bisimilarity distance function. Finally, I will give an overview of our partition-refinement algorithm for computing robust probabilistic bisimilarity.
   </details>
 
-
-
+* [Justin Hsu](https://www.justinhsu.net/), Cornell University, Ithaca, US.    
+  **Type Systems for Exchangeability (Joint Keynote with [VeriProP 2026](https://veriprop.github.io/2026/))** 
+  <details>
+    <summary>Abstract</summary>
+    TBA
+  </details>
 * [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK
 * [Mayuko Kori](https://mkori.com/), RIMS, Kyoto U, Japan.    
   **A Lattice-Theoretic Abstraction of PDR via Adjunctions**.
