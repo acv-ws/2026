@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: base
 title: ACV 2026
 image: /assets/images/moere.jpeg
 ---
