@@ -18,6 +18,7 @@ Jump to [Workshop Scope](#workshop-scope), [Invited Speakers](#invited-speakers)
 
 ### Friday 24 July, 2026
 
+| **9:00-9:15** | Opening |
 | **9:15-10:00** |  [**Benjamin Kaminski**](https://quave.cs.uni-saarland.de/benjamin-kaminski/) (Saarland U & UCL), *TBA* **(Invited Talk)** |
 | **10:00-10:30** | <a href="https://www.researchgate.net/profile/Bingqing-Hu-8">**Bingqing Hu**</a> (Utah State U); <a href="https://www.thomasnowak.net/">Thomas Nowak</a> (ENS Paris-Saclay); <a href="https://engineering.usu.edu/directory/be/faculty/zhan-jixun">Jixun Zhan</a> (Utah State U); <a href="https://www.colorado.edu/ecee/chris-myers">Chris J. Myers</a> (U Colorado Boulder); <a href="https://engineering.usu.edu/ece/people/faculty/zhang-zhen">Zhen Zhang</a> (Utah State U), *Certified Harmonic-Mean Abstraction and Refinement for Continuous-Time Markov Chains* |
 | 10:30-11:00 | Coffee break |
