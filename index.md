@@ -14,7 +14,7 @@ Lisbon, Portugal
 
 ## Program
 
-| **Friday 24 July, 2026** | < | < |
+| **Friday 24 July, 2026** |||
 | **9:15-10:00** |  [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK | TBA (Invited Talk) |
 | **10:00-10:30** | <a href="https://www.researchgate.net/profile/Bingqing-Hu-8">Bingqing Hu</a> (Utah State University); <a href="https://www.thomasnowak.net/">Thomas Nowak</a> (ENS Paris-Saclay); <a href="https://engineering.usu.edu/directory/be/faculty/zhan-jixun">Jixun Zhan</a> (Utah State University); <a href="https://www.colorado.edu/ecee/chris-myers">Chris J. Myers</a> (University of Colorado Boulder); <a href="https://engineering.usu.edu/ece/people/faculty/zhang-zhen">Zhen Zhang</a> (Utah State University) |Certified Harmonic-Mean Abstraction and Refinement for Continuous-Time Markov Chains|
 | 10:30-11:00 | Coffee break | < |
