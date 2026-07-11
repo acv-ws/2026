@@ -14,7 +14,8 @@ Lisbon, Portugal
 
 ## Program
 
-| **Friday 24 July, 2026** ||
+### Friday 24 July, 2026
+
 | **9:15-10:00** |  [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/) (Saarland U & UCL), *TBA (Invited Talk)* |
 | **10:00-10:30** | <a href="https://www.researchgate.net/profile/Bingqing-Hu-8">Bingqing Hu</a> (Utah State University); <a href="https://www.thomasnowak.net/">Thomas Nowak</a> (ENS Paris-Saclay); <a href="https://engineering.usu.edu/directory/be/faculty/zhan-jixun">Jixun Zhan</a> (Utah State University); <a href="https://www.colorado.edu/ecee/chris-myers">Chris J. Myers</a> (University of Colorado Boulder); <a href="https://engineering.usu.edu/ece/people/faculty/zhang-zhen">Zhen Zhang</a> (Utah State University), *Certified Harmonic-Mean Abstraction and Refinement for Continuous-Time Markov Chains* |
 | 10:30-11:00 | Coffee break |
@@ -29,7 +30,9 @@ Lisbon, Portugal
 | **16:30-17:00** |  <a href="https://www.cs.cornell.edu/people/kevin-stefan-batz">Kevin Batz</a> (Cornell University); <a href="https://moves.rwth-aachen.de/people/hannah-mertens/">Hannah Mertens</a> (RWTH Aachen University); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud University); <a href="https://quave.cs.uni-saarland.de/benjamin-kaminski/">Benjamin Lucien Kaminski</a> (Saarland University and University College London); <a href="https://moves.rwth-aachen.de/people/katoen/">Joost-Pieter Katoen</a> (RWTH Aachen University); <a href="https://quave.cs.uni-saarland.de/members/lena-verscht/">Lena Verscht</a> (Saarland University and RWTH Aachen University), *Multiobjective Predicate Transformers: Computing the Pareto Front in Probabilistic Programs* |
 | **17:00-17:30** | <a href="https://tephilla.github.io/">Tephilla Prince</a>, *Verification of Systems with Unbounded Agents By Exploiting Concurrency* |
 | **17:30-18:00** | <a href="https://github.com/dbasgoeze">Daniel Basgöze</a> (RWTH Aachen University); <a href="https://kevinbatz.github.io/">Kevin Batz</a> (University of Münster); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud University); <a href="https://moves.rwth-aachen.de/people/katoen/">Joost-Pieter Katoen</a> (RWTH Aachen University), *Scalable Probabilistic Program Verification by Theory-Extended Decision Diagrams* |
-| **Saturday 25 July, 2026** | < | 
+
+### Saturday 25 July, 2026
+
 | **9:00-9:45** |  [Justin Hsu](https://www.justinhsu.net/) (Cornell U), *Type Systems for Exchangeability (Joint Keynote with [VeriProP 2026](https://veriprop.github.io/2026/))* |
 | 9:45-10:00 | Mini-break | 
 | **10:00-10:30** |  <a href="https://research.birmingham.ac.uk/en/persons/pouya-partow/">Pouya Partow</a>, <a href="https://sergey-goncharov.org/">Sergey Goncharov</a> (University of Birmingham), *Coalgebraic Notions of Simulation, Bisimulation and Relators* |
