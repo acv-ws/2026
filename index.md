@@ -12,7 +12,7 @@ July 24-25, 2026
 At [FLoC 2026](https://www.floc26.org/), affiliated with [LICS 2026](https://lics.siglog.org/lics26/) and [CAV 2026](https://conferences.i-cav.org/2026/)   
 Lisbon, Portugal
 
-Jump to [Workshop Scope](#workshop-scope), [Invited Speakers](#invited-speakers) (w/ abstracts), [Contributed Presentations](#contributed-presentations) (w/ abstracts), [Call for Presentations](#call-for-presentations) (closed)
+Jump to [Invited Speakers](#invited-speakers) (w/ abstracts), [Contributed Presentations](#contributed-presentations) (w/ abstracts),  [Workshop Scope](#workshop-scope), [Call for Presentations](#call-for-presentations) (closed)
 
 ## Program
 
@@ -53,24 +53,6 @@ Jump to [Workshop Scope](#workshop-scope), [Invited Speakers](#invited-speakers)
 
 
 
-## Workshop Scope
-
-Formal verification research stands upon two lines of work. One is on *abstract mathematical semantics* of systems, defining systems’ behaviors based on which formal verification is conducted. The other one is on *concrete algorithms and methods* that enable efficient and scalable verification. 
-
-The two lines have some marked differences in their ecosystems. For example, experimental evaluation is virtually a must for the latter, while it is not for the former. Their different orientations---abstract and concrete---have made them hard to communicate with each other. 
-
-However, a recent scientific trend points to the need, feasibility, and prolificacy of the unification of abstract and concrete. On the abstract side, more works have implementations and experiments, demonstrating right away the practical value of their abstract theory. Conversely, on the concrete side, abstraction, generalization, and unification of various concrete verification methods have been actively sought. 
-
-This way, a new form of unification of abstract and concrete is emerging, centered around the mathematical languages of lattices and categories. This also follows a well-beaten track of the successful collaboration between abstract and concrete in programming language research (such as monads in functional programming). Such unification is much desired, too, now that the hard-to-(logically-)model nature of statistical AI is posing methodological challenges to formal verification.
-
-The goal of this workshop is to promote the unification of abstract and concrete and thus to incubate breakthroughs in formal verification. Specifically,
-
-* we gather a wide audience from the formal verification community,  
-* we share results, observations, and experience from both sides of abstract and concrete,  
-* we seek a common language, and   
-* we seek matchings between abstract theories and concrete techniques,
-
-thereby picturing a new form of formal verification research in the AI era.
 
 ## Invited Speakers:
 
@@ -259,6 +241,24 @@ TBA
 </ul> 
 
 
+## Workshop Scope
+
+Formal verification research stands upon two lines of work. One is on *abstract mathematical semantics* of systems, defining systems’ behaviors based on which formal verification is conducted. The other one is on *concrete algorithms and methods* that enable efficient and scalable verification. 
+
+The two lines have some marked differences in their ecosystems. For example, experimental evaluation is virtually a must for the latter, while it is not for the former. Their different orientations---abstract and concrete---have made them hard to communicate with each other. 
+
+However, a recent scientific trend points to the need, feasibility, and prolificacy of the unification of abstract and concrete. On the abstract side, more works have implementations and experiments, demonstrating right away the practical value of their abstract theory. Conversely, on the concrete side, abstraction, generalization, and unification of various concrete verification methods have been actively sought. 
+
+This way, a new form of unification of abstract and concrete is emerging, centered around the mathematical languages of lattices and categories. This also follows a well-beaten track of the successful collaboration between abstract and concrete in programming language research (such as monads in functional programming). Such unification is much desired, too, now that the hard-to-(logically-)model nature of statistical AI is posing methodological challenges to formal verification.
+
+The goal of this workshop is to promote the unification of abstract and concrete and thus to incubate breakthroughs in formal verification. Specifically,
+
+* we gather a wide audience from the formal verification community,  
+* we share results, observations, and experience from both sides of abstract and concrete,  
+* we seek a common language, and   
+* we seek matchings between abstract theories and concrete techniques,
+
+thereby picturing a new form of formal verification research in the AI era.
 
 
 ## Call for Presentations
