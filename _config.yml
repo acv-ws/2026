@@ -16,6 +16,6 @@ masthead: assets/images/banner.png
 
 minima:
   nav_pages:
-#    - about.md
-#    - portfolio.md
+    - about.md
+    - portfolio.md
 
