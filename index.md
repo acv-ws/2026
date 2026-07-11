@@ -13,7 +13,7 @@ At [FLoC 2026](https://www.floc26.org/), affiliated with [LICS 2026](https://lic
 Lisbon, Portugal
 
 Jump to
-- [Scope](#workshop-scope)
+- [Workshop Scope](#workshop-scope)
 - [Invited Speakers](#invited-speakers)
 - [Contributed Presentations](#contributed-presentations)
 - [Call for Presentations](#call-for-presentations)
