@@ -12,6 +12,11 @@ July 24-25, 2026
 At [FLoC 2026](https://www.floc26.org/), affiliated with [LICS 2026](https://lics.siglog.org/lics26/) and [CAV 2026](https://conferences.i-cav.org/2026/)   
 Lisbon, Portugal
 
+[Scope](#workshop-scope)
+[Invited Speakers](#invited-speakers)
+[Contributed Presentations](#contributed-presentations)
+[Call for Presentations](#call-for-presentations)
+
 ## Program
 
 ### Friday 24 July, 2026
@@ -257,7 +262,6 @@ TBA
 
 
 
-## Program: TBA
 
 ## Call for Presentations
 

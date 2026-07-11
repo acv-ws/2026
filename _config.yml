@@ -14,8 +14,8 @@ plugins:
 masthead: assets/images/banner.png
 
 
-minima:
-  nav_pages:
-    - about.md
-    - portfolio.md
+# minima:
+#   nav_pages:
+#     - about.md
+#     - portfolio.md
 
