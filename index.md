@@ -19,34 +19,34 @@ Jump to [Workshop Scope](#workshop-scope), [Invited Speakers](#invited-speakers)
 ### Friday 24 July, 2026
 
 | **9:15-10:00** |  [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/) (Saarland U & UCL), *TBA* **(Invited Talk)** |
-| **10:00-10:30** | <a href="https://www.researchgate.net/profile/Bingqing-Hu-8">Bingqing Hu</a> (Utah State University); <a href="https://www.thomasnowak.net/">Thomas Nowak</a> (ENS Paris-Saclay); <a href="https://engineering.usu.edu/directory/be/faculty/zhan-jixun">Jixun Zhan</a> (Utah State University); <a href="https://www.colorado.edu/ecee/chris-myers">Chris J. Myers</a> (University of Colorado Boulder); <a href="https://engineering.usu.edu/ece/people/faculty/zhang-zhen">Zhen Zhang</a> (Utah State University), *Certified Harmonic-Mean Abstraction and Refinement for Continuous-Time Markov Chains* |
+| **10:00-10:30** | <a href="https://www.researchgate.net/profile/Bingqing-Hu-8">Bingqing Hu</a> (Utah State U); <a href="https://www.thomasnowak.net/">Thomas Nowak</a> (ENS Paris-Saclay); <a href="https://engineering.usu.edu/directory/be/faculty/zhan-jixun">Jixun Zhan</a> (Utah State U); <a href="https://www.colorado.edu/ecee/chris-myers">Chris J. Myers</a> (U Colorado Boulder); <a href="https://engineering.usu.edu/ece/people/faculty/zhang-zhen">Zhen Zhang</a> (Utah State U), *Certified Harmonic-Mean Abstraction and Refinement for Continuous-Time Markov Chains* |
 | 10:30-11:00 | Coffee break |
-| **11:00-11:30** | <a href="https://linus.space/">Linus Heck</a> (Radboud University); <a href="https://www.fit.vut.cz/person/imacak/.en">Filip Macák</a>, <a href="https://www.fit.vut.cz/person/ceskam/.en">Milan Češka</a> (Brno University of Technology); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud University), *Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking* |
-| **11:30-12:00** |  <a href="https://sjpmath.github.io/">Seo Jin Park</a> (University of Oxford), *Stochastic Processes: Coinduction in Probabilistic Programming* |
+| **11:00-11:30** | <a href="https://linus.space/">Linus Heck</a> (Radboud U); <a href="https://www.fit.vut.cz/person/imacak/.en">Filip Macák</a>, <a href="https://www.fit.vut.cz/person/ceskam/.en">Milan Češka</a> (Brno Univ. of Technology); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud U), *Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking* |
+| **11:30-12:00** |  <a href="https://sjpmath.github.io/">Seo Jin Park</a> (U Oxford), *Stochastic Processes: Coinduction in Probabilistic Programming* |
 | 12:00-14:00 | Lunch | 
 | **14:00-14:30** | [Syyeda Zainab Fatmi](https://zainabfatmi.github.io/) (U Oxford),    *Robust Probabilistic Bisimilarity* **(Invited Talk)** |
 | **14:30-15:00** | <a href="https://www.sosy-lab.org/people/beyer/">Dirk Beyer</a>, <a href="https://www.sosy-lab.org/people/ernst/">Gidon Ernst</a>, <a href="https://mjonas.net/">Martin Jonáš</a>, <a href="https://www.sosy-lab.org/people/lingsch-rosenfeld/">Marian Lingsch-Rosenfeld</a> (LMU Munich), *SV-LIB 1.0: A Standard Exchange Format for Software-Verification Tasks* |
-| **15:00-15:30** | <a href="https://jackliellcock.com/">Jack Liell-Cock</a> (University of Oxford), *Imprecise Probabilistic Programming, Precisely* |
+| **15:00-15:30** | <a href="https://jackliellcock.com/">Jack Liell-Cock</a> (U Oxford), *Imprecise Probabilistic Programming, Precisely* |
 | 15:30-16:00 | Coffee break | 
 | **16:00-16:30** | [Mayuko Kori](https://mkori.com/) (Kyoto U), *A Lattice-Theoretic Abstraction of PDR via Adjunctions* **(Invited Talk)** |
-| **16:30-17:00** |  <a href="https://www.cs.cornell.edu/people/kevin-stefan-batz">Kevin Batz</a> (Cornell University); <a href="https://moves.rwth-aachen.de/people/hannah-mertens/">Hannah Mertens</a> (RWTH Aachen University); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud University); <a href="https://quave.cs.uni-saarland.de/benjamin-kaminski/">Benjamin Lucien Kaminski</a> (Saarland University and University College London); <a href="https://moves.rwth-aachen.de/people/katoen/">Joost-Pieter Katoen</a> (RWTH Aachen University); <a href="https://quave.cs.uni-saarland.de/members/lena-verscht/">Lena Verscht</a> (Saarland University and RWTH Aachen University), *Multiobjective Predicate Transformers: Computing the Pareto Front in Probabilistic Programs* |
+| **16:30-17:00** |  <a href="https://www.cs.cornell.edu/people/kevin-stefan-batz">Kevin Batz</a> (Cornell U); <a href="https://moves.rwth-aachen.de/people/hannah-mertens/">Hannah Mertens</a> (RWTH Aachen); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud U); <a href="https://quave.cs.uni-saarland.de/benjamin-kaminski/">Benjamin Lucien Kaminski</a> (Saarland U and UCL); <a href="https://moves.rwth-aachen.de/people/katoen/">Joost-Pieter Katoen</a> (RWTH Aachen); <a href="https://quave.cs.uni-saarland.de/members/lena-verscht/">Lena Verscht</a> (Saarland U and RWTH Aachen), *Multiobjective Predicate Transformers: Computing the Pareto Front in Probabilistic Programs* |
 | **17:00-17:30** | <a href="https://tephilla.github.io/">Tephilla Prince</a>, *Verification of Systems with Unbounded Agents By Exploiting Concurrency* |
-| **17:30-18:00** | <a href="https://github.com/dbasgoeze">Daniel Basgöze</a> (RWTH Aachen University); <a href="https://kevinbatz.github.io/">Kevin Batz</a> (University of Münster); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud University); <a href="https://moves.rwth-aachen.de/people/katoen/">Joost-Pieter Katoen</a> (RWTH Aachen University), *Scalable Probabilistic Program Verification by Theory-Extended Decision Diagrams* |
+| **17:30-18:00** | <a href="https://github.com/dbasgoeze">Daniel Basgöze</a> (RWTH Aachen); <a href="https://kevinbatz.github.io/">Kevin Batz</a> (U Münster); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud U); <a href="https://moves.rwth-aachen.de/people/katoen/">Joost-Pieter Katoen</a> (RWTH Aachen), *Scalable Probabilistic Program Verification by Theory-Extended Decision Diagrams* |
 
 ### Saturday 25 July, 2026
 
 | **9:00-9:45** |  [Justin Hsu](https://www.justinhsu.net/) (Cornell U), *Type Systems for Exchangeability* **(Joint Keynote with [VeriProP 2026](https://veriprop.github.io/2026/))** |
 | 9:45-10:00 | Mini-break | 
-| **10:00-10:30** |  <a href="https://research.birmingham.ac.uk/en/persons/pouya-partow/">Pouya Partow</a>, <a href="https://sergey-goncharov.org/">Sergey Goncharov</a> (University of Birmingham), *Coalgebraic Notions of Simulation, Bisimulation and Relators* |
+| **10:00-10:30** |  <a href="https://research.birmingham.ac.uk/en/persons/pouya-partow/">Pouya Partow</a>, <a href="https://sergey-goncharov.org/">Sergey Goncharov</a> (U Birmingham), *Coalgebraic Notions of Simulation, Bisimulation and Relators* |
 | 10:30-11:00 | Coffee break | 
 | **11:00-11:30** |  <a href="https://sciences-techniques.univ-nantes.fr/guilhem-jaber">Guilhème Jaber</a> (Nantes Université), *Compositional Verification of Higher-Order Effectful Programs via Interactive Semantics* |
-| **11:30-12:00** | <a href="https://www.cs.ox.ac.uk/people/zev.shirazi/">Zev Shirazi</a> (University of Oxford), *Why codensity lifting works: A formal perspective* |
+| **11:30-12:00** | <a href="https://www.cs.ox.ac.uk/people/zev.shirazi/">Zev Shirazi</a> (U Oxford), *Why codensity lifting works: A formal perspective* |
 | 12:00-14:00 | Lunch |
 | **14:00-14:45** | [Caterina Urban](https://caterinaurban.github.io/) (INRIA), *Termination Resilience Static Analysis* **(Invited Talk)** |
 | **14:45-15:30** | [Cristina Matache](https://homepages.inf.ed.ac.uk/cmatache/) (U Birmingham), *An Equational Axiomatization of Dynamic Threads* **(Invited Talk)** |
 | 15:30-16:00 | Coffee break | 
 | **16:00-16:45** | [Florian Wittbold](https://flo-witt.github.io/) (U Duisburg-Essen), *Approximative Fixpoint Theory and Applications to Reinforcement Learning* **(Invited Talk)** |
-| **16:45-17:15** |  <a href="https://theo.wang/">Theo Wang</a> (University of Oxford), *Semantics and Equational Axiomatisation of Quantum Communication* |
+| **16:45-17:15** |  <a href="https://theo.wang/">Theo Wang</a> (U Oxford), *Semantics and Equational Axiomatisation of Quantum Communication* |
 | **17:15-17:45** |  <a href="https://group-mmm.org/~ichiro/">Ichiro Hasuo</a> (National Institute of Informatics, SOKENDAI and Imiron), *Basic Lattice Theory for Basic Model Checking* |
  
 
