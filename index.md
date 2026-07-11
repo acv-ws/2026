@@ -21,8 +21,7 @@ Lisbon, Portugal
 | **11:00-11:30** | <a href="https://linus.space/">Linus Heck</a> (Radboud University); <a href="https://www.fit.vut.cz/person/imacak/.en">Filip Macák</a>, <a href="https://www.fit.vut.cz/person/ceskam/.en">Milan Češka</a> (Brno University of Technology); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud University), *Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking* |
 | **11:30-12:00** |  <a href="https://sjpmath.github.io/">Seo Jin Park</a> (University of Oxford), *Stochastic Processes: Coinduction in Probabilistic Programming* |
 | 12:00-14:00 | Lunch | 
-| **14:00-14:30** | [Syyeda Zainab Fatmi](https://zainabfatmi.github.io/) (U Oxford),   
-  *Robust Probabilistic Bisimilarity (Invited Talk)* |
+| **14:00-14:30** | [Syyeda Zainab Fatmi](https://zainabfatmi.github.io/) (U Oxford),    *Robust Probabilistic Bisimilarity (Invited Talk)* |
 | **14:30-15:00** | <a href="https://www.sosy-lab.org/people/beyer/">Dirk Beyer</a>, <a href="https://www.sosy-lab.org/people/ernst/">Gidon Ernst</a>, <a href="https://mjonas.net/">Martin Jonáš</a>, <a href="https://www.sosy-lab.org/people/lingsch-rosenfeld/">Marian Lingsch-Rosenfeld</a> (LMU Munich), *SV-LIB 1.0: A Standard Exchange Format for Software-Verification Tasks* |
 | **15:00-15:30** | <a href="https://jackliellcock.com/">Jack Liell-Cock</a> (University of Oxford), *Imprecise Probabilistic Programming, Precisely* |
 | 15:30-16:00 | Coffee break | 
