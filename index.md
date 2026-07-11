@@ -12,6 +12,12 @@ July 24-25, 2026
 At [FLoC 2026](https://www.floc26.org/), affiliated with [LICS 2026](https://lics.siglog.org/lics26/) and [CAV 2026](https://conferences.i-cav.org/2026/)   
 Lisbon, Portugal
 
+## Program
+
+| Friday 24 July, 2026 |< |< |
+|9:15-10:00 |  [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK | TBA (Invited Talk |
+|10:00-10:30 | <a href="https://www.researchgate.net/profile/Bingqing-Hu-8">Bingqing Hu</a> (Utah State University); <a href="https://www.thomasnowak.net/">Thomas Nowak</a> (ENS Paris-Saclay); <a href="https://engineering.usu.edu/directory/be/faculty/zhan-jixun">Jixun Zhan</a> (Utah State University); <a href="https://www.colorado.edu/ecee/chris-myers">Chris J. Myers</a> (University of Colorado Boulder); <a href="https://engineering.usu.edu/ece/people/faculty/zhang-zhen">Zhen Zhang</a> (Utah State University) |Certified Harmonic-Mean Abstraction and Refinement for Continuous-Time Markov Chains|
+
 ## Workshop Scope
 
 Formal verification research stands upon two lines of work. One is on *abstract mathematical semantics* of systems, defining systems’ behaviors based on which formal verification is conducted. The other one is on *concrete algorithms and methods* that enable efficient and scalable verification. 
