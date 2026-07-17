@@ -71,7 +71,24 @@ Jump to [Invited Speakers](#invited-speakers) (w/ abstracts), [Contributed Prese
   **Type Systems for Exchangeability (Joint Keynote with [VeriProP 2026](https://veriprop.github.io/2026/))** 
   <details>
     <summary>Abstract</summary>
-    TBA
+    When does the order of elements "not matter" in a random sequence? The notion of
+exchangeability formalizes this idea as a symmetry property of a distribution.
+While seemingly abstract, exchangeability has been the subject of deep
+theoretical study and is a fundamental assumption in a variety of practical
+applications, enabling statistical hypothesis tests and conformal prediction.
+However, formal verification of exchangeability appears challenging, and has
+received little study.  
+
+In this talk, I'll present some of our recent work on type systems for finite
+exchangeability. Following a common theme in programming languages, rather than
+tackling exchangeability directly, we focus on transformations that preserve
+this property. Inspired by research on bidirectional programming, we propose a
+new notion of equivariant lens and show that these morphisms preserve a
+generalization of exchangeability. By leveraging the rich categorical structure
+of these lenses, we develop two new type systems for building exchangeability
+preserving transformations and exchangeable distributions.  
+
+Joint work with Vaibhav Mehta (Cornell).  
   </details>
 * [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK
 * [Mayuko Kori](https://mkori.com/), RIMS, Kyoto U, Japan.    
