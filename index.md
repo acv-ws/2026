@@ -77,8 +77,8 @@ While seemingly abstract, exchangeability has been the subject of deep
 theoretical study and is a fundamental assumption in a variety of practical
 applications, enabling statistical hypothesis tests and conformal prediction.
 However, formal verification of exchangeability appears challenging, and has
-received little study.  
-
+received little study.
+  <br/>  <br/>
 In this talk, I'll present some of our recent work on type systems for finite
 exchangeability. Following a common theme in programming languages, rather than
 tackling exchangeability directly, we focus on transformations that preserve
@@ -87,7 +87,7 @@ new notion of equivariant lens and show that these morphisms preserve a
 generalization of exchangeability. By leveraging the rich categorical structure
 of these lenses, we develop two new type systems for building exchangeability
 preserving transformations and exchangeable distributions.  
-
+  <br/>  <br/>
 Joint work with Vaibhav Mehta (Cornell).  
   </details>
 * [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK
