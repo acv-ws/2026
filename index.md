@@ -36,7 +36,7 @@ Jump to [Invited Speakers](#invited-speakers) (w/ abstracts), [Contributed Prese
 
 ### Saturday 25 July, 2026
 
-| **9:00-9:45** |  [**Justin Hsu**](https://www.justinhsu.net/) (Cornell U), *Type Systems for Exchangeability* **(Joint Keynote with [VeriProP 2026](https://veriprop.github.io/2026/))** |
+| **9:00-9:45** | (**At Room B2.02**) [**Justin Hsu**](https://www.justinhsu.net/) (Cornell U), *Type Systems for Exchangeability* **(Joint Keynote with [VeriProP 2026](https://veriprop.github.io/2026/))** |
 | 9:45-10:00 | Mini-break | 
 | **10:00-10:30** |  <a href="https://research.birmingham.ac.uk/en/persons/pouya-partow/">**Pouya Partow**</a>, <a href="https://sergey-goncharov.org/">Sergey Goncharov</a> (U Birmingham), *Coalgebraic Notions of Simulation, Bisimulation and Relators* |
 | 10:30-11:00 | Coffee break | 
