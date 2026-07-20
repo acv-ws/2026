@@ -42,13 +42,13 @@ Jump to [Invited Speakers](#invited-speakers) (w/ abstracts), [Contributed Prese
 | 10:30-11:00 | Coffee break | 
 | **11:00-11:30** |  <a href="https://sciences-techniques.univ-nantes.fr/guilhem-jaber">**Guilhème Jaber**</a> (Nantes Université), *Compositional Verification of Higher-Order Effectful Programs via Interactive Semantics* |
 | **11:30-12:00** | <a href="https://www.cs.ox.ac.uk/people/zev.shirazi/">**Zev Shirazi**</a> (U Oxford), *Why codensity lifting works: A formal perspective* |
-| 12:00-14:00 | Lunch |
+| **12:00-12:30** |  <a href="https://theo.wang/">**Theo Wang**</a> (U Oxford), *Semantics and Equational Axiomatisation of Quantum Communication* |
+| 12:30-14:00 | Lunch |
 | **14:00-14:45** | [**Caterina Urban**](https://caterinaurban.github.io/) (INRIA), *Termination Resilience Static Analysis* **(Invited Talk)** |
 | **14:45-15:30** | [**Cristina Matache**](https://homepages.inf.ed.ac.uk/cmatache/) (U Birmingham), *An Equational Axiomatization of Dynamic Threads* **(Invited Talk)** |
 | 15:30-16:00 | Coffee break | 
 | **16:00-16:45** | [**Florian Wittbold**](https://flo-witt.github.io/) (U Duisburg-Essen), *Approximative Fixpoint Theory and Applications to Reinforcement Learning* **(Invited Talk)** |
-| **16:45-17:15** |  <a href="https://theo.wang/">**Theo Wang**</a> (U Oxford), *Semantics and Equational Axiomatisation of Quantum Communication* |
-| **17:15-17:45** |  <a href="https://group-mmm.org/~ichiro/">**Ichiro Hasuo**</a> (National Institute of Informatics, SOKENDAI and Imiron), *Basic Lattice Theory for Basic Model Checking* |
+| **16:45-17:15** |  <a href="https://group-mmm.org/~ichiro/">**Ichiro Hasuo**</a> (National Institute of Informatics, SOKENDAI and Imiron), *Basic Lattice Theory for Basic Model Checking* |
  
 
 
