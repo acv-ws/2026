@@ -19,20 +19,20 @@ Jump to [Invited Speakers](#invited-speakers) (w/ abstracts), [Contributed Prese
 ### Friday 24 July, 2026
 
 | **9:00-9:15** | Opening |
-| **9:15-10:00** |  [**Benjamin Kaminski**](https://quave.cs.uni-saarland.de/benjamin-kaminski/) (Saarland U & UCL), *TBA* **(Invited Talk)** |
+| **9:15-10:00** |  [**Benjamin Kaminski**](https://quave.cs.uni-saarland.de/benjamin-kaminski/) (Saarland U & UCL), *Fixed Points in Probabilistic Program Reasoning* **(Invited Talk)** |
 | **10:00-10:30** | <a href="https://www.researchgate.net/profile/Bingqing-Hu-8">**Bingqing Hu**</a> (Utah State U); <a href="https://www.thomasnowak.net/">Thomas Nowak</a> (ENS Paris-Saclay); <a href="https://engineering.usu.edu/directory/be/faculty/zhan-jixun">Jixun Zhan</a> (Utah State U); <a href="https://www.colorado.edu/ecee/chris-myers">Chris J. Myers</a> (U Colorado Boulder); <a href="https://engineering.usu.edu/ece/people/faculty/zhang-zhen">Zhen Zhang</a> (Utah State U), *Certified Harmonic-Mean Abstraction and Refinement for Continuous-Time Markov Chains* |
 | 10:30-11:00 | Coffee break |
 | **11:00-11:30** | <a href="https://linus.space/">**Linus Heck**</a> (Radboud U); <a href="https://www.fit.vut.cz/person/imacak/.en">Filip Macák</a>, <a href="https://www.fit.vut.cz/person/ceskam/.en">Milan Češka</a> (Brno Univ. of Technology); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud U), *Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking* |
 | **11:30-12:00** |  <a href="https://sjpmath.github.io/">**Seo Jin Park**</a> (U Oxford), *Stochastic Processes: Coinduction in Probabilistic Programming* |
-| 12:00-14:00 | Lunch | 
+| **12:00-12:30** |  <a href="https://www.cs.cornell.edu/people/kevin-stefan-batz">Kevin Batz</a> (Cornell U); <a href="https://moves.rwth-aachen.de/people/hannah-mertens/">Hannah Mertens</a> (RWTH Aachen); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud U); <a href="https://quave.cs.uni-saarland.de/benjamin-kaminski/">Benjamin Lucien Kaminski</a> (Saarland U and UCL); <a href="https://moves.rwth-aachen.de/people/katoen/">Joost-Pieter Katoen</a> (RWTH Aachen); <a href="https://quave.cs.uni-saarland.de/members/lena-verscht/">**Lena Verscht**</a> (Saarland U and RWTH Aachen), *Multiobjective Predicate Transformers: Computing the Pareto Front in Probabilistic Programs* |
+| 12:30-14:00 | Lunch | 
 | **14:00-14:30** | [**Syyeda Zainab Fatmi**](https://zainabfatmi.github.io/) (U Oxford),    *Robust Probabilistic Bisimilarity* **(Invited Talk)** |
 | **14:30-15:00** | <a href="https://www.sosy-lab.org/people/beyer/">Dirk Beyer</a>, <a href="https://www.sosy-lab.org/people/ernst/">Gidon Ernst</a>, <a href="https://mjonas.net/">Martin Jonáš</a>, <a href="https://www.sosy-lab.org/people/lingsch-rosenfeld/">**Marian Lingsch-Rosenfeld**</a> (LMU Munich), *SV-LIB 1.0: A Standard Exchange Format for Software-Verification Tasks* |
 | **15:00-15:30** | <a href="https://jackliellcock.com/">**Jack Liell-Cock**</a> (U Oxford), *Imprecise Probabilistic Programming, Precisely* |
 | 15:30-16:00 | Coffee break | 
 | **16:00-16:30** | [**Mayuko Kori**](https://mkori.com/) (Kyoto U), *A Lattice-Theoretic Abstraction of PDR via Adjunctions* **(Invited Talk)** |
-| **16:30-17:00** |  <a href="https://www.cs.cornell.edu/people/kevin-stefan-batz">Kevin Batz</a> (Cornell U); <a href="https://moves.rwth-aachen.de/people/hannah-mertens/">Hannah Mertens</a> (RWTH Aachen); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud U); <a href="https://quave.cs.uni-saarland.de/benjamin-kaminski/">Benjamin Lucien Kaminski</a> (Saarland U and UCL); <a href="https://moves.rwth-aachen.de/people/katoen/">Joost-Pieter Katoen</a> (RWTH Aachen); <a href="https://quave.cs.uni-saarland.de/members/lena-verscht/">**Lena Verscht**</a> (Saarland U and RWTH Aachen), *Multiobjective Predicate Transformers: Computing the Pareto Front in Probabilistic Programs* |
-| **17:00-17:30** | <a href="https://tephilla.github.io/">**Tephilla Prince**</a>, *Verification of Systems with Unbounded Agents By Exploiting Concurrency* |
-| **17:30-18:00** | <a href="https://github.com/dbasgoeze">Daniel Basgöze</a> (RWTH Aachen); <a href="https://kevinbatz.github.io/">Kevin Batz</a> (U Münster); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud U); <a href="https://moves.rwth-aachen.de/people/katoen/">**Joost-Pieter Katoen**</a> (RWTH Aachen), *Scalable Probabilistic Program Verification by Theory-Extended Decision Diagrams* |
+| **16:30-17:00** | <a href="https://tephilla.github.io/">**Tephilla Prince**</a>, *Verification of Systems with Unbounded Agents By Exploiting Concurrency* |
+| **17:00-17:30** | <a href="https://github.com/dbasgoeze">Daniel Basgöze</a> (RWTH Aachen); <a href="https://kevinbatz.github.io/">Kevin Batz</a> (U Münster); <a href="https://sjunges.github.io/">Sebastian Junges</a> (Radboud U); <a href="https://moves.rwth-aachen.de/people/katoen/">**Joost-Pieter Katoen**</a> (RWTH Aachen), *Scalable Probabilistic Program Verification by Theory-Extended Decision Diagrams* |
 
 ### Saturday 25 July, 2026
 
@@ -90,7 +90,12 @@ preserving transformations and exchangeable distributions.
   <br/>  <br/>
 Joint work with Vaibhav Mehta (Cornell).  
   </details>
-* [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK
+* [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbr&uuml;cken, Germany & U College London, UK.
+  **Fixed Points in Probabilistic Program Reasoning**
+    <details>
+    <summary>Abstract</summary>
+    We will showcase how fixed point theory enables reasoning about probabilistic programs with loops. We will first give a recap on weakest preexpectations and thereafter see fixed point techniques that enable reasoning about loops. We will also showcase a new fixed point theorem and discuss possible applications in (probabilistic) program reasoning.
+    </details>
 * [Mayuko Kori](https://mkori.com/), RIMS, Kyoto U, Japan.    
   **A Lattice-Theoretic Abstraction of PDR via Adjunctions**.
   <details>
@@ -249,7 +254,7 @@ In this talk, we will present typed extended decision diagrams (TEDDs), inspired
   <br/>
 <details>
     <summary>Abstract</summary>
-TBA
+    I will exhibit very simple problems of safety and reachability verification, and several fixed point algorithm for them. These simple problems, however, expose subtle yet fundamental issues on fixed points in model checking. I will introduce some basic lattice-theoretic results (the Knaster-Tarski, Cousot-Cousot, and Kleene theorems) and constructs (involution, adjoint) and address those issues. 
 </details>
 
 </li>
