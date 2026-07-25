@@ -48,7 +48,7 @@ Jump to [Invited Speakers](#invited-speakers) (w/ abstracts), [Contributed Prese
 | **14:45-15:30** | [**Cristina Matache**](https://homepages.inf.ed.ac.uk/cmatache/) (U Birmingham), *An Equational Axiomatization of Dynamic Threads* **(Invited Talk)** |
 | 15:30-16:00 | Coffee break | 
 | **16:00-16:45** | [**Florian Wittbold**](https://flo-witt.github.io/) (U Duisburg-Essen), *Approximative Fixpoint Theory and Applications to Reinforcement Learning* **(Invited Talk)** |
-| **16:45-17:15** |  <a href="https://group-mmm.org/~ichiro/">**Ichiro Hasuo**</a> (National Institute of Informatics, SOKENDAI and Imiron), *Basic Lattice Theory for Basic Model Checking* |
+| **16:45-17:15** |  <a href="https://group-mmm.org/~ichiro/">**Ichiro Hasuo**</a> (National Institute of Informatics, SOKENDAI and Imiron), *Basic Lattice Theory for Basic Model Checking* <a href="https://1drv.ms/b/c/b1b4a7d40fa1ba3d/IQDR7EtY09UMRqh08LPWiUM4ARc5alfaP3Zxrur-8XNxFy4?e=uJdohX">slides</a>|
  
 
 
@@ -250,7 +250,7 @@ In this talk, we will present typed extended decision diagrams (TEDDs), inspired
 </li>
 
 
-  <li>Basic Lattice Theory for Basic Model Checking, <a href="https://group-mmm.org/~ichiro/">Ichiro Hasuo</a> (National Institute of Informatics, SOKENDAI and Imiron)
+  <li>Basic Lattice Theory for Basic Model Checking, <a href="https://group-mmm.org/~ichiro/">Ichiro Hasuo</a> (National Institute of Informatics, SOKENDAI and Imiron) <a href="https://1drv.ms/b/c/b1b4a7d40fa1ba3d/IQDR7EtY09UMRqh08LPWiUM4ARc5alfaP3Zxrur-8XNxFy4?e=uJdohX">slides</a>
   <br/>
 <details>
     <summary>Abstract</summary>
